@@ -1,4 +1,5 @@
 Summary:	OpenOffice.org nested in KDE
+Summary(pl):	OpenOffice.org osadzone w KDE
 Name:		cuckooo
 Version:	0.3
 Release:	1
@@ -12,7 +13,12 @@ BuildRequires:	openoffice-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-A KDE Part, which allows OpenOffice.org to be run in a Konqueror window. 
+A KDE Part, which allows OpenOffice.org to be run in a Konqueror
+window.
+
+%description -l pl
+Element KDE pozwalaj±cy na uruchamianie edytora OpenOffice.org w oknie
+Konquerora.
 
 %prep
 %setup -q
