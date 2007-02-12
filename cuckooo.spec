@@ -1,5 +1,5 @@
 Summary:	OpenOffice.org nested in KDE
-Summary(pl.UTF-8):   OpenOffice.org osadzone w KDE
+Summary(pl.UTF-8):	OpenOffice.org osadzone w KDE
 Name:		cuckooo
 Version:	0.3
 Release:	1
